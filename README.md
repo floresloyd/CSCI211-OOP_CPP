@@ -1,3 +1,10 @@
-# CSCI-211-Projects-Cplusplus
+# CSCI-211: Object-Oriented Programming in C++ Project Review
 
-Projects I did for CSCI 211 - Objective-oriented algorithmic problem solving in C++ @ CUNY Queens College
+## Course Information
+- **Course**: CSCI-211 Object-Oriented Programming in C++
+- **Professor**: Dr. Jerry Waxman
+- **Institution**: CUNY Queens College
+- **Semester**: Fall 2022
+
+## Overview
+During the Fall 2022 semester in CSCI-211, I had the opportunity to deepen my understanding of Object-Oriented Programming (OOP) principles using C++. Under the guidance of Dr. Jerry Waxman, the projects I undertook not only solidified my grasp of fundamental concepts but also challenged me to apply them in complex, real-world scenarios.
