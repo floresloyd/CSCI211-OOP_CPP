@@ -1,4 +1,4 @@
-# CSCI-211: Object-Oriented Programming in C++ Project Review
+# CSCI-211: Object-Oriented Programming in C++ Projects
 
 ## Course Information
 - **Course**: CSCI-211 Object-Oriented Programming in C++
